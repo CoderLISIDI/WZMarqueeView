@@ -1,5 +1,5 @@
 //
-//  WZMarqueeView.h
+//  WZMarqueeView1.h
 //  XYHiRepairs
 //
 //  Created by lisd on 2017/12/15.
@@ -8,6 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface WZMarqueeView : NSObject
+@interface WZMarqueeView1 : NSObject
 + (void)hehe;
 @end
